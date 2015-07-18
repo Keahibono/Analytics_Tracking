@@ -4,3 +4,9 @@ button{
   border-radius: 10px;
   max-height: 20px;
 }
+
+div{
+  background-color: orange;
+  width: 100px;
+  height: 20px;
+}
